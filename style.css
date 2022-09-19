@@ -1,6 +1,7 @@
 body{
     background-color: gray;
-    height: 500px;
+    height: 20px;
+
 }
 .box1{
     background-color: white;
@@ -65,7 +66,8 @@ body{
     position: absolute;
     left: 21px;
     top: 50px;
-    border: 3px solid black;
+   border-left: 2px solid black;
+   border-bottom: 2px solid black;
 }
 
 .box4{
@@ -122,14 +124,15 @@ input{
     width: 100px;
 }
 .box6{
-    border: 10px solid red;
+       border: 10px solid red;
     background-color: yellowgreen;
     width: 500px;
-    height: 95px;
+    height: 98px;
     border-radius: 23px;
     position: sticky;
-    bottom: 76px;
-    left: 441px;
+    bottom: 250px;
+    left: 431px;
+   
 }
 .content6{
     color: brown;
