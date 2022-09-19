@@ -1,0 +1,233 @@
+body{
+    background-color: gray;
+    height: 500px;
+}
+.box1{
+    background-color: white;
+    border: 8px solid red;
+    border-radius: 10px;
+    box-shadow: 8px 10px #943c94;
+    width: 500px;
+    height: 180px;
+    position: relative;
+    left: 436px;
+}
+.content1{
+    position: absolute;
+    top: 8px;
+    left: 153px;
+    text-align: center;
+    color: brown;
+    text-shadow: 2px 2px 2PX #9604b6;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 30px;
+}
+.full-border{
+    border: 8px solid green;
+    width: 99%;
+    height: 750px;
+}
+.box2{
+    background-color: white;
+    border: 8px solid red;
+    border-radius: 10px;
+    box-shadow: 8px 10px #943c94;
+    width: 266px;
+    height: 250px;
+    position: relative;
+}
+.content2{
+    position: absolute;
+    left: 20px;
+    top: 17px;
+    text-align: center;
+    font-size: 27px;
+    font-weight: 900;
+    text-shadow: 0px 2px 3px purple;
+
+}
+
+.box3{
+    background-color: white;
+    border: 8px solid red;
+    border-radius: 10px;
+    box-shadow: 8px 10px #943c94;
+    width: 266px;
+    height: 250px;
+    position: relative;
+    left: 1060px;
+    bottom: 261px;
+}
+.pic1{
+    width: 221px;
+    height: 150px;
+    position: absolute;
+    left: 21px;
+    top: 50px;
+    border: 3px solid black;
+}
+
+.box4{
+    background-color: white;
+    border: 8px solid red;
+    border-radius: 10px;
+    box-shadow: 8px 10px #943c94;
+    width: 266px;
+    height: 250px;
+    position: relative;
+    bottom: 100px;
+}
+.content4{
+    position: absolute;
+    top: 11px;
+    left: 10px;
+    font-size: 27px;
+    font-weight: 900;
+    text-shadow: 0px 2px 3px purple;
+}
+.box5{
+    background-color: white;
+    border: 8px solid red;
+    border-radius: 10px;
+    box-shadow: 8px 10px #943c94;
+    width: 266px;
+    height: 250px;
+    position: relative;
+    left: 1077px;
+    bottom: 261px;
+    text-align: center;
+    bottom: 366px;
+}
+.content5{
+    position: absolute;
+    top: 11px;
+    left: 10px;
+    font-size: 27px;
+    font-weight: 900;
+    text-shadow: 0px 2px 3px purple;
+}
+.rate{
+    font-size: 13px;
+    top: 19px;
+    position: relative;
+    
+}
+input{
+    width: 120px;
+}
+.button{
+    border-radius: 10px;
+    background-color: red;
+    width: 100px;
+}
+.box6{
+    border: 10px solid red;
+    background-color: yellowgreen;
+    width: 500px;
+    height: 95px;
+    border-radius: 23px;
+    position: sticky;
+    bottom: 76px;
+    left: 441px;
+}
+.content6{
+    color: brown;
+    font-weight: bold;
+    font-style: italic;
+    position: absolute;
+    top: 20px;
+    font-size: 28px;
+    text-align: center;
+}
+span{
+    font-size: 20px;
+    position: absolute;
+    left: 328px;
+    width: 151px;
+    bottom: 20px;
+    text-align: center;
+}
+.container{
+    border: 10px solid purple;
+    background-color: green;
+    width: 800px;
+    height: 620px;
+    position: relative;
+    left: 350px;
+    position: relative;
+}
+.content7{
+    font-weight: bold;
+    position: absolute;
+    left: 286px;
+    top: 20px;
+    font-size: 30px;
+}
+.box7{
+    width: 390px;
+    height: 253px;
+    background-color: yellow;
+    border: 3px solid grey;
+    position: relative;
+    top: 75px;
+    left: 2px;
+}
+.content8{
+    text-align: center;
+    font-size: 18px;
+    font-style:italic;
+    text-transform: uppercase;
+    position: absolute;
+}
+.box8{
+    width: 390px;
+    height: 253px;
+    background-color: yellow;
+    border: 3px solid grey;
+    position: relative;
+    bottom: 555px;
+    left: 764px;
+}
+.content9{
+    text-align: center;
+    font-size: 17px;
+    font-style: italic;
+    text-transform: uppercase;
+    position: absolute;
+    left: 20px;
+}
+.box9{
+    width: 802px;
+    height: 253px;
+    background-color: yellow;
+    border: 3px solid grey;
+    position: relative;
+    bottom: 548px;
+    left: 360px;
+}
+.content10{
+    text-align: center;
+    font-size: 17px;
+    font-style: italic;
+    position: absolute;
+    left: 39px;
+}
+.line{
+    width: 802px;
+    position: absolute;
+    left: -39px;
+    bottom: 144px;
+}
+.line1{
+    width: 388px;
+    position: absolute;
+    bottom: 147px;
+
+}
+.line2{
+    width: 390px;
+    position: absolute;
+    bottom: 157px;
+    left: -21px;
+}
